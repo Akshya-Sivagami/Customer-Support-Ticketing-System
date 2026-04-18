@@ -9,3 +9,6 @@ bin/
 # OS files
 .DS_Store
 Thumbs.db
+
+#Ignore the ppt n report
+*.pdf
